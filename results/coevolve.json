@@ -1,0 +1,100 @@
+{
+  "champion": {
+    "v_pen": 500.0,
+    "v_plant": 2.0,
+    "v_aharv": 2.0,
+    "v_feed_u": 30.0,
+    "v_feed": 4.6711,
+    "v_care": 5.0,
+    "v_place": 40000.0,
+    "v_water_h": 250.0,
+    "v_harv": 378.9785,
+    "v_harv_m": 2.0,
+    "v_pick_w": 1694.6276,
+    "v_pick_a": 14125.0286,
+    "water_urgent": 259.2,
+    "water_base": 34.58,
+    "travel_cost": 0.5,
+    "carry_cap": 14.63,
+    "seed_cap": 3.496,
+    "plant_radius": 9.0,
+    "workers_hi": 8.0,
+    "active_hi": 6.0,
+    "herd": 10.0,
+    "barn_r": 2.8011,
+    "animal_harvest": 5.306,
+    "animal_last_day": 12.47,
+    "feed_batch": 12.96,
+    "feed_horizon": 9.9082,
+    "feed_safety": 1.0,
+    "sheep_share": 0.25,
+    "sell_floor": 0.5063,
+    "sell_spread": 2.297,
+    "land_cash": 1384,
+    "max_land": 2.735,
+    "land_fill": 0.2
+  },
+  "champion_fitness": 18869.51818181818,
+  "history": [
+    {
+      "gen": 0,
+      "champ": 26398,
+      "median": 7054,
+      "seconds": 188
+    },
+    {
+      "gen": 1,
+      "champ": 16168,
+      "median": 9547,
+      "seconds": 285
+    },
+    {
+      "gen": 2,
+      "champ": 16797,
+      "median": 15505,
+      "seconds": 311
+    },
+    {
+      "gen": 3,
+      "champ": 16089,
+      "median": 12364,
+      "seconds": 342
+    },
+    {
+      "gen": 4,
+      "champ": 15942,
+      "median": 14334,
+      "seconds": 370
+    },
+    {
+      "gen": 5,
+      "champ": 14417,
+      "median": 13820,
+      "seconds": 466
+    },
+    {
+      "gen": 6,
+      "champ": 13259,
+      "median": 12849,
+      "seconds": 305
+    },
+    {
+      "gen": 7,
+      "champ": 18611,
+      "median": 12681,
+      "seconds": 340
+    },
+    {
+      "gen": 8,
+      "champ": 18530,
+      "median": 10078,
+      "seconds": 379
+    },
+    {
+      "gen": 9,
+      "champ": 18870,
+      "median": 17114,
+      "seconds": 432
+    }
+  ]
+}

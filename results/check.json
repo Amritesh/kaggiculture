@@ -1,0 +1,178 @@
+{
+  "table": [
+    {
+      "agent": "agent/main.py",
+      "played": 12,
+      "winrate": 0.75,
+      "w": 9,
+      "l": 3,
+      "t": 0,
+      "mean_coins": 66886.8
+    },
+    {
+      "agent": "opponents/crops_v5.py",
+      "played": 12,
+      "winrate": 0.25,
+      "w": 3,
+      "l": 9,
+      "t": 0,
+      "mean_coins": 51928.7
+    }
+  ],
+  "h2h": {
+    "agent/main.py": {
+      "opponents/crops_v5.py": [
+        9,
+        3
+      ]
+    },
+    "opponents/crops_v5.py": {
+      "agent/main.py": [
+        3,
+        9
+      ]
+    }
+  },
+  "seeds": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "games": [
+    {
+      "a": "agent/main.py",
+      "b": "opponents/crops_v5.py",
+      "seed": 0,
+      "seat": 0,
+      "a_score": 67844.0,
+      "b_score": 49165.0,
+      "a_win": true,
+      "tie": false,
+      "seconds": 0.9
+    },
+    {
+      "a": "agent/main.py",
+      "b": "opponents/crops_v5.py",
+      "seed": 0,
+      "seat": 1,
+      "a_score": 65016.0,
+      "b_score": 49487.0,
+      "a_win": true,
+      "tie": false,
+      "seconds": 0.94
+    },
+    {
+      "a": "agent/main.py",
+      "b": "opponents/crops_v5.py",
+      "seed": 1,
+      "seat": 0,
+      "a_score": 105123.0,
+      "b_score": 70127.0,
+      "a_win": true,
+      "tie": false,
+      "seconds": 0.94
+    },
+    {
+      "a": "agent/main.py",
+      "b": "opponents/crops_v5.py",
+      "seed": 1,
+      "seat": 1,
+      "a_score": 105123.0,
+      "b_score": 70127.0,
+      "a_win": true,
+      "tie": false,
+      "seconds": 0.94
+    },
+    {
+      "a": "agent/main.py",
+      "b": "opponents/crops_v5.py",
+      "seed": 2,
+      "seat": 0,
+      "a_score": 28682.0,
+      "b_score": 32714.0,
+      "a_win": false,
+      "tie": false,
+      "seconds": 0.85
+    },
+    {
+      "a": "agent/main.py",
+      "b": "opponents/crops_v5.py",
+      "seed": 2,
+      "seat": 1,
+      "a_score": 36163.0,
+      "b_score": 36943.0,
+      "a_win": false,
+      "tie": false,
+      "seconds": 0.87
+    },
+    {
+      "a": "agent/main.py",
+      "b": "opponents/crops_v5.py",
+      "seed": 3,
+      "seat": 0,
+      "a_score": 66642.0,
+      "b_score": 60943.0,
+      "a_win": true,
+      "tie": false,
+      "seconds": 0.94
+    },
+    {
+      "a": "agent/main.py",
+      "b": "opponents/crops_v5.py",
+      "seed": 3,
+      "seat": 1,
+      "a_score": 67545.0,
+      "b_score": 62044.0,
+      "a_win": true,
+      "tie": false,
+      "seconds": 0.93
+    },
+    {
+      "a": "agent/main.py",
+      "b": "opponents/crops_v5.py",
+      "seed": 4,
+      "seat": 0,
+      "a_score": 69181.0,
+      "b_score": 41975.0,
+      "a_win": true,
+      "tie": false,
+      "seconds": 0.87
+    },
+    {
+      "a": "agent/main.py",
+      "b": "opponents/crops_v5.py",
+      "seed": 4,
+      "seat": 1,
+      "a_score": 72927.0,
+      "b_score": 44106.0,
+      "a_win": true,
+      "tie": false,
+      "seconds": 0.85
+    },
+    {
+      "a": "agent/main.py",
+      "b": "opponents/crops_v5.py",
+      "seed": 5,
+      "seat": 0,
+      "a_score": 51968.0,
+      "b_score": 53051.0,
+      "a_win": false,
+      "tie": false,
+      "seconds": 0.96
+    },
+    {
+      "a": "agent/main.py",
+      "b": "opponents/crops_v5.py",
+      "seed": 5,
+      "seat": 1,
+      "a_score": 66427.0,
+      "b_score": 52462.0,
+      "a_win": true,
+      "tie": false,
+      "seconds": 0.95
+    }
+  ]
+}

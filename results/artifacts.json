@@ -1,0 +1,15 @@
+{
+  "agent/main.py": {
+    "bytes": 34582,
+    "sha256": "591031b903c2d597c09b4097416ad47983a4f8a7ce06fd13b1cac7d32436b75e"
+  },
+  "submission.tar.gz": {
+    "bytes": 12300,
+    "sha256": "f289fef6b6fd06d6ad9ef273f154f7bb0cb36aab0f7a2c3433d7adebf689e0b4"
+  },
+  "kaggriculture_agent.ipynb": {
+    "bytes": 39444,
+    "sha256": "2329af4a986331f9074bd3488d74ef6de0571a9433880f3d749ea49f8aa2814c"
+  },
+  "packaged_from": "agent/main.py"
+}

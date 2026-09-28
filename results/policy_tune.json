@@ -1,0 +1,100 @@
+{
+  "best_margin": 36859.430555555555,
+  "params": {
+    "v_pen": 138.0591,
+    "v_plant": 2.4143,
+    "v_aharv": 1.6163,
+    "v_feed_u": 48.2166,
+    "v_feed": 9.7963,
+    "v_care": 7.1553,
+    "v_place": 36983.3457,
+    "v_water_h": 178.738,
+    "v_harv": 343.2493,
+    "v_harv_m": 3.9468,
+    "v_pick_w": 5524.2322,
+    "v_pick_a": 22246.9744,
+    "water_urgent": 353.8791,
+    "water_base": 29.0911,
+    "travel_cost": 0.7943,
+    "carry_cap": 15.6946,
+    "seed_cap": 4.2467,
+    "plant_radius": 9.3471,
+    "workers_hi": 8.1705,
+    "active_hi": 5.4109,
+    "herd": 14.474,
+    "barn_r": 3.4324,
+    "animal_harvest": 5.3667,
+    "animal_last_day": 15.2224,
+    "feed_batch": 12.8609,
+    "feed_horizon": 15.1063,
+    "feed_safety": 1.0728,
+    "sheep_share": 0.2317,
+    "sell_floor": 0.4513,
+    "sell_spread": 3.027,
+    "land_cash": 1582.8888,
+    "max_land": 2.673,
+    "land_fill": 0.3525
+  },
+  "history": [
+    {
+      "iter": 0,
+      "best": 20394,
+      "incumbent": 20394,
+      "median": -7958
+    },
+    {
+      "iter": 1,
+      "best": 23156,
+      "incumbent": 23156,
+      "median": 4510
+    },
+    {
+      "iter": 2,
+      "best": 30903,
+      "incumbent": 23956,
+      "median": 17546
+    },
+    {
+      "iter": 3,
+      "best": 23554,
+      "incumbent": 20999,
+      "median": 20252
+    },
+    {
+      "iter": 4,
+      "best": 36859,
+      "incumbent": 27245,
+      "median": 23725
+    },
+    {
+      "iter": 5,
+      "best": 34169,
+      "incumbent": 26813,
+      "median": 25905
+    },
+    {
+      "iter": 6,
+      "best": 27986,
+      "incumbent": 26490,
+      "median": 23605
+    },
+    {
+      "iter": 7,
+      "best": 30295,
+      "incumbent": 25765,
+      "median": 24759
+    },
+    {
+      "iter": 8,
+      "best": 31031,
+      "incumbent": 25880,
+      "median": 22584
+    },
+    {
+      "iter": 9,
+      "best": 26612,
+      "incumbent": 21147,
+      "median": 20326
+    }
+  ]
+}

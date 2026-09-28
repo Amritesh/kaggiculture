@@ -1,0 +1,13 @@
+# local environment
+.venv/
+__pycache__/
+*.pyc
+
+# vendored engine: cloned by setup.sh, not tracked (52 MB, has its own history)
+vendor/
+
+# generated artefacts
+results/*.npz
+results/*.pt
+results/attn_weights.json
+submission.tar.gz

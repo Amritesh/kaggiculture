@@ -1,0 +1,63 @@
+{
+  "best_coins": 83516.6875,
+  "params": {
+    "workers_hi": 6.0103,
+    "workers_mid": 4.1403,
+    "workers_lo": 5.5541,
+    "active_hi": 13.0657,
+    "active_lo": 4.0155,
+    "max_land": 2.6568,
+    "land_cash": 525.3074,
+    "land_last_day": 22.9274,
+    "land_fill": 0.2508,
+    "herd": 9.1848,
+    "animal_cash": 3286.9296,
+    "animal_last_day": 13.9255,
+    "feed_days": 3.9214,
+    "feed_batch": 14.607,
+    "seed_cap": 2.0,
+    "sell_floor": 0.5001,
+    "sell_spread": 1.6992,
+    "carry_cap": 27.9705
+  },
+  "mean_params": {
+    "workers_hi": 6.8572,
+    "workers_mid": 3.9359,
+    "workers_lo": 5.9958,
+    "active_hi": 6.7489,
+    "active_lo": 4.3721,
+    "max_land": 2.6489,
+    "land_cash": 675.6215,
+    "land_last_day": 18.1773,
+    "land_fill": 0.147,
+    "herd": 7.6129,
+    "animal_cash": 3177.4461,
+    "animal_last_day": 12.7763,
+    "feed_days": 3.4045,
+    "feed_batch": 9.8015,
+    "seed_cap": 2.9567,
+    "sell_floor": 0.5528,
+    "sell_spread": 2.6144,
+    "carry_cap": 18.6954
+  },
+  "history": [
+    {
+      "iter": 0,
+      "best": 74789,
+      "median": 36191,
+      "seconds": 190
+    },
+    {
+      "iter": 1,
+      "best": 83517,
+      "median": 56102,
+      "seconds": 220
+    },
+    {
+      "iter": 2,
+      "best": 72149,
+      "median": 69765,
+      "seconds": 233
+    }
+  ]
+}
